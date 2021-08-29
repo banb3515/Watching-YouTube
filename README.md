@@ -1,6 +1,6 @@
 # **Watching YouTube**
 
-> ### **[Portfolio - Watching-YouTube](http://banb.work/Portfolio/Watching-YouTube)**
+> ### **[Project - Watching-YouTube](http://banb.work/Project/Watching-YouTube)**
 
 ---
 
